@@ -30,6 +30,11 @@ export const navItems: INavData[] = [
     icon: 'icon-pencil'
   },
   {
+    name: 'Typography',
+    url: '/theme/typography',
+    icon: 'icon-pencil'
+  },
+  {
     title: true,
     name: 'Components'
   },
